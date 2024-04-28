@@ -3,7 +3,7 @@
 ---
 ### :man_technologist: About Me :
 I'm a Computer Science student from Poland.
-- :telescope: I’m currently expanding my backend knowdledge, skills for building web applications. Also I'm getting into mobile apps. (time????)
+- :telescope: I’m currently expanding my backend knowdledge, skills for building web applications. Also I'm getting into mobile apps. (time?)
 
 
 - :zap: Right now, I'm working on my biggest project --> https://apollo.majkeloess.dev
