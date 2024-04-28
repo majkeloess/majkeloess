@@ -6,7 +6,7 @@ I'm a Computer Science student from Poland.
 - :telescope: I’m currently expanding my backend knowdledge, skills for building web applications. Also I'm getting into mobile apps. (time?)
 
 
-- :zap: Right now, I'm working on my biggest project --> [Apollo](https://apollo.majkeloess.dev) // Link is going to work soon.. 
+- :zap: Right now, I'm working on my biggest project --> [Apollo](https://apollo.majkeloess.dev) 
 
 - :mailbox: Mail: msaturczakk@gmail.com
 ---
