@@ -1,2 +1,1 @@
-[![majkeloess](https://github.com/user-attachments/assets/f10ef7d1-0767-4fd3-b16a-d7f9fddeccd6)](https://majkeloess.dev)
-
+[![majkeloess](https://github.com/user-attachments/assets/d7786125-733e-4940-b08a-2c16d3d44d20)](https://majkeloess.dev)
